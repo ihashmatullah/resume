@@ -1,1 +1,1 @@
-#My Resume site built with only HTML
+My Resume site built with only HTML
